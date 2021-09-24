@@ -1,2 +1,2 @@
 print("hello newworld")
-print("this is the game")
+print("this is the game too")
